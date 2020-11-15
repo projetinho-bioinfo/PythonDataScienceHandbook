@@ -1,6 +1,6 @@
 # Python Data Science Handbook
 
-[nbviewer link](https://nbviewer.jupyter.org/github/projetinho-bioinfo/PythonDataScienceHandbook/tree/master/)
+[nbviewer link](https://nbviewer.jupyter.org/github/projetinho-bioinfo/PythonDataScienceHandbook/tree/master/notebooks/Index.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projetinho-bioinfo/PythonDataScienceHandbook/HEAD)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projetinho-bioinfo/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
