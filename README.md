@@ -1,9 +1,10 @@
 # Python Data Science Handbook
 
 [nbviewer link](https://nbviewer.jupyter.org/github/projetinho-bioinfo/PythonDataScienceHandbook/tree/master/)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projetinho-bioinfo/PythonDataScienceHandbook/HEAD)
 akevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projetinho-bioinfo/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
 
